@@ -41,10 +41,11 @@ export default Header;
 
 const menus = [
   "Home",
+  "About us",
   "Holdidays",
   "Destinations",
-  "Flights",
   "Offers",
+  "Careers",
   "Contacts",
-  "Blog",
+  "Blog"
 ];
