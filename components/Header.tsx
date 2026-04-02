@@ -31,6 +31,8 @@ function Header() {
         <div className=" flex items-center gap-6">
           <IoMdSearch className=" text-lg" />
           <IoMdPerson className=" text-lg" />
+          <IoMdPerson className=" text-lg" />
+          <IoMdPerson className=" text-lg" />
         </div>
       </ul>
     </div>
