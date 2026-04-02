@@ -46,4 +46,5 @@ const menus = [
   "Flights",
   "Offers",
   "Contacts",
+  "Blog",
 ];
